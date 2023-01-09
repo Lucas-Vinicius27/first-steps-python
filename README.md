@@ -1,2 +1,2 @@
-# first_steps_python
+# First Steps Python
 Meus primeiros scripts com python
